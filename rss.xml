@@ -5,7 +5,14 @@
     <description>CW and POTA. Adventure couple doing amateur radio, ham radio, CW, morse code, and POTA parks on the air.</description>
     <link>https://hamradioduo.com</link>
     <atom:link href="https://hamradioduo.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 05 Apr 2026 04:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 01:42:34 GMT</lastBuildDate>
+    <item>
+      <title>Pebble HF: Now Shipping!</title>
+      <link>https://hamradioduo.com/pebble-hf-now-shipping/</link>
+      <guid isPermaLink="true">https://hamradioduo.com/pebble-hf-now-shipping/</guid>
+      <pubDate>Sat, 23 May 2026 01:00:00 GMT</pubDate>
+      <description>We realized that while we announced Pebble HF on YouTube about 2 months ago, we somehow forgot to post it here on our blog. Oops! So here it is — Pebble HF is real, and we&apos;re now shipping! While we are shipping, we are working our way through the list of people who signed up on pebblehf.com to be no</description>
+    </item>
     <item>
       <title>Print Your Own Case for The Just OK Mini</title>
       <link>https://hamradioduo.com/print-your-own-case-for-the-just-ok-mini/</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://hamradioduo.com/morse-code-tools-cw-practice-and-games/</guid>
       <pubDate>Thu, 20 Mar 2025 22:20:16 GMT</pubDate>
       <description>Hello, fellow Morse code fans! Michael and Becky from the HamRadioDuo here. Today, we&apos;re diving into the world of Morse Code tools that make learning fun and exciting. If you&apos;re curious about how to make practicing CW a blast, you&apos;re in the right place! We’ve got some cool stuff to share that&apos;s goin</description>
-    </item>
-    <item>
-      <title>CW Lake POTA Activation on our G90</title>
-      <link>https://hamradioduo.com/cw-lake-pota-activation-on-our-g90/</link>
-      <guid isPermaLink="true">https://hamradioduo.com/cw-lake-pota-activation-on-our-g90/</guid>
-      <pubDate>Fri, 14 Mar 2025 23:59:59 GMT</pubDate>
-      <description>Discover Lake Guntersville State Park Lake Guntersville State Park is a wonderful favorite spot in Alabama. It&apos;s a great place to camp and play radio. We found a pavilion by the lake, providing a picture-perfect backdrop for a Parks on the Air (POTA) adventure. We had a great time and definitely rec</description>
     </item>
   </channel>
 </rss>
