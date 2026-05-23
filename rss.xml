@@ -5,7 +5,14 @@
     <description>CW and POTA. Adventure couple doing amateur radio, ham radio, CW, morse code, and POTA parks on the air.</description>
     <link>https://hamradioduo.com</link>
     <atom:link href="https://hamradioduo.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 23 May 2026 01:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 01:55:40 GMT</lastBuildDate>
+    <item>
+      <title>Print Your Own Pebble HF Case</title>
+      <link>https://hamradioduo.com/print-your-own-pebble-hf-case/</link>
+      <guid isPermaLink="true">https://hamradioduo.com/print-your-own-pebble-hf-case/</guid>
+      <pubDate>Sat, 23 May 2026 02:00:00 GMT</pubDate>
+      <description>Here are the files to print your own case for the Pebble HF. You can print them in any color you choose, add your callsign, or modify it. If you have a Bambu printer, you can use the .3mf file. It already has the .stl files positioned correctly, including the lettering embedded in the top face down </description>
+    </item>
     <item>
       <title>Pebble HF: Now Shipping!</title>
       <link>https://hamradioduo.com/pebble-hf-now-shipping/</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://hamradioduo.com/morse-code-in-athens-al/</guid>
       <pubDate>Sun, 30 Mar 2025 06:29:45 GMT</pubDate>
       <description>We do a POTA Activation in Athens, Alabama Today, Becky (N4BKY) and I had a delightful Parks on the Air (POTA) activations in the charming town of Athens, Alabama. This spontaneous adventure brought us to a picturesque public park nestled right along the historic Trail of Tears, surrounded by the be</description>
-    </item>
-    <item>
-      <title>Morse Code Tools | CW Practice and Games! 🤖</title>
-      <link>https://hamradioduo.com/morse-code-tools-cw-practice-and-games/</link>
-      <guid isPermaLink="true">https://hamradioduo.com/morse-code-tools-cw-practice-and-games/</guid>
-      <pubDate>Thu, 20 Mar 2025 22:20:16 GMT</pubDate>
-      <description>Hello, fellow Morse code fans! Michael and Becky from the HamRadioDuo here. Today, we&apos;re diving into the world of Morse Code tools that make learning fun and exciting. If you&apos;re curious about how to make practicing CW a blast, you&apos;re in the right place! We’ve got some cool stuff to share that&apos;s goin</description>
     </item>
   </channel>
 </rss>
