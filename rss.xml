@@ -5,7 +5,14 @@
     <description>CW and POTA. Adventure couple doing amateur radio, ham radio, CW, morse code, and POTA parks on the air.</description>
     <link>https://hamradioduo.com</link>
     <atom:link href="https://hamradioduo.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 27 May 2026 21:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 22:03:42 GMT</lastBuildDate>
+    <item>
+      <title>Important: CW Receive Bug Fix for Pebble HF (v1.0.7)</title>
+      <link>https://hamradioduo.com/important-cw-receive-bug-fix-for-pebble-hf-v1-0-7/</link>
+      <guid isPermaLink="true">https://hamradioduo.com/important-cw-receive-bug-fix-for-pebble-hf-v1-0-7/</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:00 GMT</pubDate>
+      <description>We&apos;ve found and fixed a critical firmware bug that affects CW receive on the Pebble HF. The bug could cause received CW signals to be very weak — or not heard at all — even when they were strong. I&apos;m sharing this now so everyone is aware, and so anyone who&apos;d like to help test can get started right a</description>
+    </item>
     <item>
       <title>Print Your Own Pebble HF Case</title>
       <link>https://hamradioduo.com/print-your-own-pebble-hf-case/</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://hamradioduo.com/seconds-to-deploy-challenge/</guid>
       <pubDate>Tue, 01 Apr 2025 04:17:39 GMT</pubDate>
       <description>Hey there, radio friends! Welcome to our &quot;Seconds to Deploy Challenge!&quot; Imagine a race where the only way to win is to have the quickest deploy. We&apos;re trying to make it easier to play radio, where the goal is to set up a tiny portable station as quickly as possible. Setting Up Lightning Fast Join us</description>
-    </item>
-    <item>
-      <title>Morse Code in Athens, AL</title>
-      <link>https://hamradioduo.com/morse-code-in-athens-al/</link>
-      <guid isPermaLink="true">https://hamradioduo.com/morse-code-in-athens-al/</guid>
-      <pubDate>Sun, 30 Mar 2025 06:29:45 GMT</pubDate>
-      <description>We do a POTA Activation in Athens, Alabama Today, Becky (N4BKY) and I had a delightful Parks on the Air (POTA) activations in the charming town of Athens, Alabama. This spontaneous adventure brought us to a picturesque public park nestled right along the historic Trail of Tears, surrounded by the be</description>
     </item>
   </channel>
 </rss>

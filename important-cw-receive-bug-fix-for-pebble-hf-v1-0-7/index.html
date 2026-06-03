@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Important: CW Receive Bug Fix for Pebble HF (v1.0.7) - Ham Radio Duo</title>
+    <meta name="description" content="We&#039;ve found and fixed a critical firmware bug that affects CW receive on the Pebble HF. The bug could cause received CW signals to be very weak — or not heard...">
+    
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="alternate" type="application/rss+xml" title="Ham Radio Duo" href="/rss.xml">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LXEJV5WV0M"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-LXEJV5WV0M');
+    </script>
+</head>
+<body>
+    
+    <div class="top-banner">
+      <p>Welcome to Ham Radio Duo &mdash; Exploring the airwaves together!</p>
+    </div>
+    <header class="site-header">
+      <div class="header-inner">
+        <nav class="nav-left">
+          <a href="/" class="nav-link">Home</a>
+            <a href="/tools/" class="nav-link">Tools</a>
+            <a href="https://shop.hamradioduo.com/" class="nav-link">Shop</a>
+            <a href="https://qslcards.hamradioduo.com/" class="nav-link">QSL Cards</a>
+        </nav>
+        <div class="site-logo">
+          <a href="/">
+            <img src="/images/2024/11/HamRadioDuo-logo-big.png" alt="Ham Radio Duo" class="logo-img">
+          </a>
+        </div>
+        <div class="nav-right">
+          <!-- Search and subscribe omitted for static version -->
+        </div>
+        <button class="hamburger" aria-label="Toggle navigation" onclick="document.querySelector('.site-header').classList.toggle('nav-open')">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </header>
+
+    <main class="site-main">
+      
+      <article class="post-full">
+        <div class="post-hero"><img src="/images/2026/05/pebble-hf.jpg" alt="Important: CW Receive Bug Fix for Pebble HF (v1.0.7)"></div>
+        <div class="post-content-wrapper">
+          <header class="post-header">
+            <h1 class="post-title">Important: CW Receive Bug Fix for Pebble HF (v1.0.7)</h1>
+            <div class="post-meta">
+              
+              <time class="post-date">June 3, 2026</time>
+            </div>
+            
+          </header>
+          <div class="post-body">
+            <figure class="kg-card kg-image-card"><img src="/images/2026/05/pebble-hf.jpg" class="kg-image" alt="Pebble HF" loading="lazy"></figure><p>We've found and fixed a critical firmware bug that affects CW receive on the Pebble HF. The bug could cause received CW signals to be very weak — or not heard at all — even when they were strong. I'm sharing this now so everyone is aware, and so anyone who'd like to help test can get started right away.</p><p>The good news: the fix appears to fully resolve the issue, and CW receive should now be noticeably better than before. The catch: to get the fix you'll need to re-flash your radio's firmware. It's not difficult, but it's admittedly not as simple as updating other radios.</p><p><strong>Good to know:</strong> this only affected CW receive. Transmit, SSB/voice, and digital modes were not impacted — so any contacts you've made were going out fine.</p><h2 id="what-happened">What happened</h2><p>Back in v1.0.3, while adding the configurable CW Tone feature, I introduced a bug in the receive logic. It shifted where the real signal landed and broke the radio's image rejection, which is what made strong CW signals come through weak or missing.</p><h2 id="how-to-get-the-fix">How to get the fix</h2><p>Re-flash your Pebble with v1.0.7. I've created a GitHub pre-release with a pre-built .hex file for easy flashing: <a href="https://github.com/mspiceland/usdx-pebblehf/releases/tag/v1.0.7">https://github.com/mspiceland/usdx-pebblehf/releases/tag/v1.0.7</a></p><p>Re-flashing requires an inexpensive programming adapter (about $10) and a connection to your Pebble HF. To connect, you can either solder on a 6-pin header or — my preferred method — use a press-fit "pogo pin" adapter that holds onto the board only during programming. We made a video walking through the whole process here:</p><figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/3D6su1BXr1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></figure><ul><li><strong>Command line:</strong> download usdx.ino.hex.v1.0.7 from the release link above and flash it with avrdude (see the README for example commands).</li><li><strong>Arduino IDE:</strong> pull the latest code from the repository, open the .ino file, then compile and upload.</li></ul><p>The video covers the connection options as well as both the command-line and Arduino IDE methods.</p><p>If you can't or would rather not do this yourself, please reach out to me privately and we'll make sure you get upgraded. Plenty of folks on our Discord are happy to help too.</p><p>I'm truly sorry for the inconvenience. Our goal was to ship field-tested firmware so that most people would never need to update — and I can't believe this slipped through. To make sure it doesn't happen again, we're pausing shipments until we and others have had time to do more field testing.</p><p>Thank you all, and thanks in advance to everyone who helps test!</p><p>73 Mike N4FFF and Becky N4BKY<br><a href="https://www.youtube.com/@HamRadioDuo">https://www.youtube.com/@HamRadioDuo</a></p>
+          </div>
+        </div>
+      </article>
+    </main>
+
+    
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <p>&copy; 2026 Ham Radio Duo. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="hamradioduo" data-description="Support me on Buy me a coffee!" data-message="Support us or join the Duo Crew" data-color="#FF5F5F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+</body>
+</html>
