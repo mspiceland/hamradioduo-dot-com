@@ -5,7 +5,14 @@
     <description>CW and POTA. Adventure couple doing amateur radio, ham radio, CW, morse code, and POTA parks on the air.</description>
     <link>https://hamradioduo.com</link>
     <atom:link href="https://hamradioduo.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 16 Jul 2026 01:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:33:27 GMT</lastBuildDate>
+    <item>
+      <title>Pebble HF Field Reference by Steve KV4AN</title>
+      <link>https://hamradioduo.com/pebble-hf-field-reference-by-steve-kv4an/</link>
+      <guid isPermaLink="true">https://hamradioduo.com/pebble-hf-field-reference-by-steve-kv4an/</guid>
+      <pubDate>Thu, 23 Jul 2026 16:00:00 GMT</pubDate>
+      <description>Steve, KV4AN, put together a fantastic two-page (front and back) field reference for the Pebble HF. It&apos;s a handy cheat sheet covering the radio&apos;s controls, jacks, display, and menu operation — perfect to print out and keep with your radio in the field. A huge thank you to Steve for creating and shar</description>
+    </item>
     <item>
       <title>Important: CW Receive Bug Fix for Pebble HF (v1.0.7)</title>
       <link>https://hamradioduo.com/important-cw-receive-bug-fix-for-pebble-hf-v1-0-7/</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://hamradioduo.com/introducing-some-boy-scouts-to-morse-code-and-parks-on-the-air-pota/</guid>
       <pubDate>Tue, 01 Apr 2025 04:36:06 GMT</pubDate>
       <description>Monte Sano State Park: A Perfect Spot Monte Sano State Park in Alabama is a beautiful place and a great location to find a new spot for our latest POTA activation. The park offers amazing views and lots of hiking trails that any adventurer would love. But this time, we weren&apos;t alone! Boy Scout Troop</description>
-    </item>
-    <item>
-      <title>Seconds to Deploy Challenge</title>
-      <link>https://hamradioduo.com/seconds-to-deploy-challenge/</link>
-      <guid isPermaLink="true">https://hamradioduo.com/seconds-to-deploy-challenge/</guid>
-      <pubDate>Tue, 01 Apr 2025 04:17:39 GMT</pubDate>
-      <description>Hey there, radio friends! Welcome to our &quot;Seconds to Deploy Challenge!&quot; Imagine a race where the only way to win is to have the quickest deploy. We&apos;re trying to make it easier to play radio, where the goal is to set up a tiny portable station as quickly as possible. Setting Up Lightning Fast Join us</description>
     </item>
   </channel>
 </rss>
