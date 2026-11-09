@@ -5,7 +5,14 @@
     <description>CW and POTA. Adventure couple doing amateur radio, ham radio, CW, morse code, and POTA parks on the air.</description>
     <link>https://hamradioduo.com</link>
     <atom:link href="https://hamradioduo.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 16 Oct 2026 19:59:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:18:28 GMT</lastBuildDate>
+    <item>
+      <title>5,389 km on 5 Watts: Backyard PebbleHF Fun</title>
+      <link>https://hamradioduo.com/5-389-km-on-5-watts-backyard-pebblehf-fun/</link>
+      <guid isPermaLink="true">https://hamradioduo.com/5-389-km-on-5-watts-backyard-pebblehf-fun/</guid>
+      <pubDate>Mon, 09 Nov 2026 03:00:00 GMT</pubDate>
+      <description>5,389 km (3,348 mi) on a radio I built, 5 watts, and a wire in a tree! 🌳 Backyard PebbleHF Fun! 📻 We had a blast with the PebbleHF yesterday! We put up a basic 20m EFHW on a POTA20 mast in the backyard and settled in for a day of radio fun. SSB The day before, we hunted Stan and Kevin on their Peb</description>
+    </item>
     <item>
       <title>Pebble HF Field Reference by Steve KV4AN</title>
       <link>https://hamradioduo.com/pebble-hf-field-reference-by-steve-kv4an/</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://hamradioduo.com/how-is-your-fist/</guid>
       <pubDate>Fri, 04 Apr 2025 05:22:45 GMT</pubDate>
       <description>CW Morse Code Checker Tool Of course we don&apos;t mean how is your literal fist, but how is your CW fist? Becky recently got a new Vibroplex Bug from the &apos;60s. One of the first steps was to adjust everything and make sure that it works well. After watching some videos online, and one in particular from </description>
-    </item>
-    <item>
-      <title>Introducing some Boy Scouts to Morse Code and Parks On The Air (POTA)</title>
-      <link>https://hamradioduo.com/introducing-some-boy-scouts-to-morse-code-and-parks-on-the-air-pota/</link>
-      <guid isPermaLink="true">https://hamradioduo.com/introducing-some-boy-scouts-to-morse-code-and-parks-on-the-air-pota/</guid>
-      <pubDate>Tue, 01 Apr 2025 04:36:06 GMT</pubDate>
-      <description>Monte Sano State Park: A Perfect Spot Monte Sano State Park in Alabama is a beautiful place and a great location to find a new spot for our latest POTA activation. The park offers amazing views and lots of hiking trails that any adventurer would love. But this time, we weren&apos;t alone! Boy Scout Troop</description>
     </item>
   </channel>
 </rss>
