@@ -5,7 +5,14 @@
     <description>CW and POTA. Adventure couple doing amateur radio, ham radio, CW, morse code, and POTA parks on the air.</description>
     <link>https://hamradioduo.com</link>
     <atom:link href="https://hamradioduo.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 09 Nov 2026 02:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:58:47 GMT</lastBuildDate>
+    <item>
+      <title>SKCC WES on Just 0.8 Watts</title>
+      <link>https://hamradioduo.com/skcc-wes-on-just-0-8-watts/</link>
+      <guid isPermaLink="true">https://hamradioduo.com/skcc-wes-on-just-0-8-watts/</guid>
+      <pubDate>Mon, 16 Nov 2026 03:00:00 GMT</pubDate>
+      <description>What Is SKCC WES? If you enjoy Morse code, you should give the SKCC Weekend Sprintathon (WES) a try. It&apos;s a fun on-air event that happens once a month, put on by the Straight Key Century Club . It&apos;s friendly, relaxed, and a great excuse to dust off your straight key, bug, or cootie (sideswiper) and </description>
+    </item>
     <item>
       <title>5,389 km on 5 Watts: Backyard PebbleHF Fun</title>
       <link>https://hamradioduo.com/5-389-km-on-5-watts-backyard-pebblehf-fun/</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://hamradioduo.com/we-got-a-piece-of-morse-code-history-2/</guid>
       <pubDate>Sat, 05 Apr 2025 02:46:59 GMT</pubDate>
       <description>The J-38 Key Hi friends, it&apos;s Mike (N4FFF) and Becky (N4BKY) from HamRadioDuo! If you&apos;ve been following our journey, you already know about our deep appreciation for Morse code. Recently, something very special found its way into our shack—a genuine, vintage J-38 straight key. Part of the magic of m</description>
-    </item>
-    <item>
-      <title>How is your fist?</title>
-      <link>https://hamradioduo.com/how-is-your-fist/</link>
-      <guid isPermaLink="true">https://hamradioduo.com/how-is-your-fist/</guid>
-      <pubDate>Fri, 04 Apr 2025 05:22:45 GMT</pubDate>
-      <description>CW Morse Code Checker Tool Of course we don&apos;t mean how is your literal fist, but how is your CW fist? Becky recently got a new Vibroplex Bug from the &apos;60s. One of the first steps was to adjust everything and make sure that it works well. After watching some videos online, and one in particular from </description>
     </item>
   </channel>
 </rss>
